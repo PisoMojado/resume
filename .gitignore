@@ -1,3 +1,7 @@
+#Directories specific to resume project:
+build/
+tools/
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
